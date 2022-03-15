@@ -1,0 +1,50 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ 
+ #top {
+     text-align: center;
+ }
+ 
+ #logo {
+     color: aqua;
+     background-color:  darkblue;
+     display: inline-block;
+     font-size: 30px;
+     font-weight: bolder;
+     padding: 10px;
+     margin-top: 1px;
+ }    
+ 
+ #logo-name {
+     font-size: 30px;
+     font-weight: bolder;
+     margin: 10px;
+ }
+
+ #navigation a {
+     color: gray;
+     padding: 8px;
+ }
+
+ #navigation a:hover {
+     color: blue;
+ }
+
+ #image img {
+     width:100px;
+     margin-top: 16px;
+     margin-bottom: 16px;
+ }
+
+ #main {
+     width: 800px;
+     margin: auto;
+ }
+
+ #footer {
+     text-align: center;
+     color: gray;
+     padding: 50px;
+ 
+}
